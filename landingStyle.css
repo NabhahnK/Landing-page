@@ -1,0 +1,16 @@
+#header-img {
+    height: 50px;
+    width: 50px;    
+}
+
+#header {
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: aqua;
+}
+
+nav {
+    float: right;
+}
